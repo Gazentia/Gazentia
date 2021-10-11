@@ -27,11 +27,10 @@ Frontend Frameworks
 Moudule Bundlers & Task Runners
 </h2>
 
-![](https://img.shields.io/badge/Webpack-msg?style=for-the-badge&logo=webpack&logoColor=white&color=8DD6F9)
+![](https://img.shields.io/badge/Webpack-Learning-1?style=for-the-badge&logo=webpack&logoColor=white&labelColor=8DD6F9&color=lightgrey)
 ![](https://img.shields.io/badge/Sass-msg?style=for-the-badge&logo=sass&logoColor=white&color=CC6699)
 ![](https://img.shields.io/badge/PostCSS-msg?style=for-the-badge&logo=postcss&logoColor=white&color=DD3A0A)
-![](https://img.shields.io/badge/Babel-msg?style=for-the-badge&logo=babel&logoColor=white&color=F9DC3E)
-
+![](https://img.shields.io/badge/Babel-Learning-1?style=for-the-badge&logo=babel&logoColor=white&labelColor=F9DC3E&color=lightgrey)
 <h2>
 Backend Tools
 </h2>
