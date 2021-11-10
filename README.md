@@ -3,7 +3,7 @@
  Hello, I'm <i>Gazentia (Wat)</i>
 </h1>
 <p><b>I'm a new programmer who interested in coding for making website templates or web applications.</b></p>
-
+<p><b>Contact:</b> <a href="mailto:gazentiadev8352@gmail.com">gazentiadev8352@gmail.com</a></p>
 <h2>
 UI Design Tools
 </h2>
