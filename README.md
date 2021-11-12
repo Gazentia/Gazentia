@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello, I'm <i>Gazentia (Kai)</i>
+Hello, I'm <i><a href="https://gazentia.dev/" target="_blank">Gazentia</a> (Kai)</i>
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 <p align="center"><b>I'm a new programmer who interested in coding for making website templates or web applications.</b></p>
