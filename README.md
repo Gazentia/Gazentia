@@ -54,7 +54,7 @@ Hello, I'm <i><a href="https://gazentia.dev/" target="_blank">Gazentia</a> (Wat)
 
 ## Containerization
 
-![](https://img.shields.io/badge/Babel-Pending-1?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=lightgrey)
+![](https://img.shields.io/badge/Docker-Pending-1?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=lightgrey)
 
 ## Web Scraping
 
