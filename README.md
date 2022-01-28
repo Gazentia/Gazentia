@@ -19,22 +19,23 @@ Hello, I'm <i><a href="https://gazentia.dev/" target="_blank">Gazentia</a> (Wat)
 ![](https://img.shields.io/badge/CSS3-msg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/JavaScript-msg?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
 
-![](https://img.shields.io/badge/AdobeXD-Learning-1?style=for-the-badge&logo=adobexd&logoColor=white&labelColor=FF61F6&color=lightgrey)
+![](https://img.shields.io/badge/AdobeXD-Pending-1?style=for-the-badge&logo=adobexd&logoColor=white&labelColor=FF61F6&color=lightgrey)
 ![](https://img.shields.io/badge/AdobePhotoshop-msg?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=31A8FF)
 ![](https://img.shields.io/badge/AdobeIllustrator-msg?style=for-the-badge&logo=adobeillustrator&logoColor=white&color=FF9A00)
 
 ## Frontend Frameworks
 
-![](https://img.shields.io/badge/Angular-Learning-1?style=for-the-badge&logo=angular&logoColor=white&labelColor=DD0031&color=lightgrey)
-![](https://img.shields.io/badge/React-Learning-1?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB&color=lightgrey)
+![](https://img.shields.io/badge/Angular-Pending-1?style=for-the-badge&logo=angular&logoColor=white&labelColor=DD0031&color=lightgrey)
+![](https://img.shields.io/badge/React-Pending-1?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB&color=lightgrey)
 ![](https://img.shields.io/badge/jQuery-msg?style=for-the-badge&logo=jquery&logoColor=white&color=0769AD)
+![](https://img.shields.io/badge/Vue-msg?style=for-the-badge&logo=vue.js&logoColor=white&color=#4FC08D)
 
 ## Moudule Bundlers & Task Runners
 
-![](https://img.shields.io/badge/Webpack-Learning-1?style=for-the-badge&logo=webpack&logoColor=white&labelColor=8DD6F9&color=lightgrey)
+![](https://img.shields.io/badge/Webpack-Pending-1?style=for-the-badge&logo=webpack&logoColor=white&labelColor=8DD6F9&color=lightgrey)
 ![](https://img.shields.io/badge/Sass-msg?style=for-the-badge&logo=sass&logoColor=white&color=CC6699)
 ![](https://img.shields.io/badge/PostCSS-msg?style=for-the-badge&logo=postcss&logoColor=white&color=DD3A0A)
-![](https://img.shields.io/badge/Babel-Learning-1?style=for-the-badge&logo=babel&logoColor=white&labelColor=F9DC3E&color=lightgrey)
+![](https://img.shields.io/badge/Babel-Pending-1?style=for-the-badge&logo=babel&logoColor=white&labelColor=F9DC3E&color=lightgrey)
 
 ## Backend Tools
 
@@ -50,6 +51,10 @@ Hello, I'm <i><a href="https://gazentia.dev/" target="_blank">Gazentia</a> (Wat)
 
 ![](https://img.shields.io/badge/VisualStudioCode-msg?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Prettier-msg?style=for-the-badge&logo=prettier&logoColor=white&color=F7B93E)
+
+## Containerization
+
+![](https://img.shields.io/badge/Babel-Pending-1?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=lightgrey)
 
 ## Web Scraping
 
