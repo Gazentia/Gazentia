@@ -58,7 +58,7 @@ Currently working remotely and growing into full-stack development step by step.
 ![Vue](https://img.shields.io/badge/Vue-Reviewing-1?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=4FC08D&color=lightgrey)
 ![MySQL](https://img.shields.io/badge/MySQL-Reviewing-1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1&color=lightgrey)
 
----
+----
 
 ## 📊 GitHub Stats
 
